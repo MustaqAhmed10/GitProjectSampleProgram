@@ -8,6 +8,7 @@ public class Sample {
 	private void test() {
 		System.out.println("Repository Creation");
 		System.out.println("First modification in master");
+		System.out.println("1 line added from Mustaq branch");
 	}
 	
 }
